@@ -1,0 +1,20 @@
+{
+  "name": "Camatra Token List",
+  "logoURI": "https://raw.githubusercontent.com/Camatra/Camatra-metadata/main/camatra-logo.png",
+  "tags": {},
+  "timestamp": "2025-05-13T00:00:00Z",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "AdmMVYPmgYJF1ks86nxcLZRQEh68KGtPqDjn5BCkuhCc",
+      "symbol": "CMAT",
+      "name": "Camatra",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Camatra/Camatra-metadata/main/camatra-logo.png",
+      "extensions": {
+        "website": "https://yourdomain.com",
+        "twitter": "https://twitter.com/yourprofile"
+      }
+    }
+  ]
+}
